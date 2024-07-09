@@ -2,8 +2,8 @@
 
 - Japanese Master Students
 - Major in Computer Science and Audio Signal Processing.
-- I want to become a cute onyanoko by voice transformation...
-- Love GNU/Linux, Especially [NixOS](https://nixos.org/)!
+- I want to become a cute `onyanoko` by voice conversion...
+- Love GNU/Linux, use [NixOS](https://nixos.org/) now!
 - Currently working on a kubernetes cluster with Infrastracture as code.
 
 ### My Status
