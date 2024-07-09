@@ -1,4 +1,4 @@
-### Who are you ?
+### About me
 
 - Japanese Master Students
 - Major in Computer Science and Audio Signal Processing.
