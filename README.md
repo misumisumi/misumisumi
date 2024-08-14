@@ -1,6 +1,6 @@
 ### About me
 
-- Japanese Master Students
+- Japanese Graduate Students
 - Major in Computer Science and Audio Signal Processing.
 - I want to become a cute `onyanoko` by voice conversion...
 - Love GNU/Linux, use [NixOS](https://nixos.org/) now!
